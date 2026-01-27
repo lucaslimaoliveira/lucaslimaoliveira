@@ -1,11 +1,9 @@
 <h2 align="left">Oi 👋 eu sou o Lucas Lima, desenvolvedor curioso e sempre explorando novas tecnologias.</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaslimaoliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaslimaoliveira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=dracula&hide_border=false" height="112" alt="languages graph"  />
-</div>
+Sou estudante de desenvolvimento no Instituto J&F, atualmente cursando a formação de desenvolvedor.
+Tenho maior interesse nas áreas de back-end e mobile, com foco em Java, onde gosto de trabalhar
+principalmente com lógica e criação de sistemas.
+Prefiro aprender na prática, desenvolvendo projetos e fortalecendo bem os fundamentos da programação.
 
 ###
 
@@ -41,6 +39,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaslimaoliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="420" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaslimaoliveira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=dracula&hide_border=false" width="420" alt="languages graph"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucaslimaoliveira/lucaslimaoliveira/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucaslimaoliveira/lucaslimaoliveira/output/pacman-contribution-graph.svg">
@@ -50,10 +55,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/lucas_lima1929?igsh=MTFtenFlcGY3OXEweg=="><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  /></a>
+  <a href="mailto:lucaslbr1a2b@email.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  /></a>
+  <a href="mailto:lucas.lima@germinare.org.br"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  /></a>
+  <a href="https://www.linkedin.com/in/lucas-oliveira-851b653a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  /></a>  
 </div>
-
-###
