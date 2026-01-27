@@ -37,15 +37,6 @@ Prefiro aprender na prática, desenvolvendo projetos e fortalecendo bem os funda
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="30" alt="androidstudio logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaslimaoliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="420" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaslimaoliveira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=dracula&hide_border=false" width="420" alt="languages graph"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucaslimaoliveira/lucaslimaoliveira/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucaslimaoliveira/lucaslimaoliveira/output/pacman-contribution-graph.svg">
