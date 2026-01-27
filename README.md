@@ -37,6 +37,8 @@ Prefiro aprender na prática, desenvolvendo projetos e fortalecendo bem os funda
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="30" alt="androidstudio logo"  />
 </div>
 
+<hr>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucaslimaoliveira/lucaslimaoliveira/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucaslimaoliveira/lucaslimaoliveira/output/pacman-contribution-graph.svg">
