@@ -48,8 +48,8 @@ Prefiro aprender na prática, desenvolvendo projetos e fortalecendo bem os funda
 ###
 
 <div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/lucas-oliveira-851b653a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  /></a>
-  <a target="_blank" href="mailto:lucaslbr1a2b@email.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  /></a>
-  <a target="_blank" href="mailto:lucas.lima@germinare.org.br"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  /></a>
-  <a target="_blank" href="https://www.instagram.com/lucas_lima1929?igsh=MTFtenFlcGY3OXEweg=="><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  /></a>  
+  <a href="https://www.linkedin.com/in/lucas-oliveira-851b653a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  /></a>
+  <a href="mailto:lucaslbr1a2b@email.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  /></a>
+  <a href="mailto:lucas.lima@germinare.org.br" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="47" height="35" alt="microsoft-outlook logo"  /></a>
+  <a href="https://www.instagram.com/lucas_lima1929?igsh=MTFtenFlcGY3OXEweg==" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  /></a>  
 </div>
